@@ -1,5 +1,5 @@
 {
-    "http.proxy": "https://gentle-wildwood-54379.herokuapp.com/ ",
+    "http.proxy": "",
 "http.proxyAuthorization": null,
 "http.proxyStrictSSL": true
 }
