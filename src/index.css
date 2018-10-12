@@ -13,7 +13,9 @@ padding: 0px 0px 0px 90px;
   padding:50px 00px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
 }
-
+.comments{
+  margin-top: 100px,
+}
 .form-control-sm{
   max-width: 250px;
   padding: 50px; 

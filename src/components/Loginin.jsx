@@ -26,7 +26,7 @@ class Loginin extends Component {
     <input type="email" className="form-control form-control-sm"  placeholder="Enter email" />
  
  
-    <input type="password" className="form-control form-control-sm" style={{marginTop:20,marginBottom:20}}  placeholder="Password" />
+    <input type="password" className="form-control form-control-sm" style={{marginTop:20,marginBottom:20,height:10}}  placeholder="Password" />
 
   <small><a href="#">Don't You have Account? Register Here</a></small>
   

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Navbar from './header/Navbar';
 import { BrowserRouter as Router,  Route, Link } from 'react-router-dom';
 import Related from './Related';
-
+import Comment from './Comment';
 class Click extends Component {
 
 
@@ -33,7 +33,13 @@ class Click extends Component {
                              because it controls what happens in the rest of the paragraph.</p>
                 </body>
             </div>
-
+           
+            <div className="jumbotron click-contain" style={{marginTop:50,}}>
+            <div className="">
+               <h3><u>COMMENT BELOW</u></h3>
+            </div>
+                 < Comment />
+           </div>
 
 
             </div>
